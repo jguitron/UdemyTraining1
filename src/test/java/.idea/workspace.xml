@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ceee16d5-f74d-4fa5-a850-584aff70156b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/azure/azureSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Locators_Section/Udemy_locators_download.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumFeaturesLatest/MobileEmulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webdriver_techniques/Auto_sugesstive_dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webdriver_techniques/Dynamic_drop_downs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webdriver_techniques/End_to_end_automation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webdriver_techniques/Handling_alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webdriver_techniques/Handling_calander_ui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Webdriver_techniques/Updated_drop_downs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_testing/Ecom_problem.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="26fCxVg8ilSfEtPJYTo7O2KHHNE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ceee16d5-f74d-4fa5-a850-584aff70156b" name="Changes" comment="" />
+      <created>1647805500072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647805500072</updated>
+    </task>
+    <servers />
+  </component>
+</project>
