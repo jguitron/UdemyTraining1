@@ -3,6 +3,9 @@ package java_training_OOPS_BASICS;
 public class ArrayDemo {
     public static void main(String[] args) {
 
+        ArrayList ab = new ArrayList();
+        ab.abc();
+
 //        int a = 4;
 //        a=4;
         //A container which stores multiple values of same data type
