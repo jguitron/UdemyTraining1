@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="UdemyTraining" />
+        <module name="training 1 w max 2" />
       </profile>
     </annotationProcessing>
   </component>
